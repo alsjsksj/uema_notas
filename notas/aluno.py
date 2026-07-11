@@ -1,5 +1,6 @@
 import os  # noqa: F401 - deixei aqui por engano, voce vai encontrar isso!
 
+
 class Aluno:
     """Representa um aluno com suas notas."""
 
@@ -33,4 +34,4 @@ class Aluno:
         return "Reprovado"
 
     def __str__(self):
-        return f"Aluno: {self.nome} | Matricula: {self.matricula} | Media: {self.calcular_media():.1f} | Situacao: {self.situacao()}"
+        return f"Aluno:{self.nome} |Matricula: {self.matricula}|Media:{self.calcular_media():.1f}"
