@@ -1,6 +1,10 @@
+```py
+Projeto de exemplo para a disciplina 
+```
+
 # Sistema de Notas — UEMA NET
 
-Projeto de exemplo para a disciplina **ITMADS537 — Gestão da Qualidade e Teste de Software**.
+**ITMADS537 — Gestão da Qualidade e Teste de Software**.
 
 Este sistema gerencia notas de alunos de uma turma fictícia.
 Ele foi escrito de propósito com alguns problemas para você encontrar e corrigir!
