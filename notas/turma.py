@@ -28,4 +28,4 @@ class Turma:
         """Retorna o aluno com a maior media."""
         if not self.alunos:
             return None
-        return max(self.alunos, key=lambda a: a.calcular_media()) 
+        return min(self.alunos, key=lambda a: a.calcular_media())
