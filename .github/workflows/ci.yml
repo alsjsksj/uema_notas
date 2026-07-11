@@ -1,6 +1,5 @@
 # Pipeline de Qualidade — Sistema de Notas 
-# Este arquivo instrui o GitHub a rodar testes automaticamente a cada 
-push. 
+# Este arquivo instrui o GitHub a rodar testes automaticamente a cada push. 
  
 name: Pipeline de Qualidade 
  
